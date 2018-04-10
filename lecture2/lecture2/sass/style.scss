@@ -1,0 +1,23 @@
+body{
+    padding: 30px;
+    font-family: fantasy;
+    font-size: 14px;
+}
+
+.box{
+    margin: 0 auto 25px;
+    border: 1px solid steelblue;
+    padding: 25px;
+    border-radius: 10px;
+
+}
+
+.important{
+    @extend .box;
+    background: linear-gradient(red,green)
+}
+
+.success{
+    @extend .box;
+    background-color: tan;
+}

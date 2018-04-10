@@ -1,0 +1,18 @@
+body {
+  padding: 30px;
+  font-family: fantasy;
+  font-size: 14px; }
+
+.box, .important, .success {
+  margin: 0 auto 25px;
+  border: 1px solid steelblue;
+  padding: 25px;
+  border-radius: 10px; }
+
+.important {
+  background: linear-gradient(red, green); }
+
+.success {
+  background-color: tan; }
+
+/*# sourceMappingURL=style.css.map */
