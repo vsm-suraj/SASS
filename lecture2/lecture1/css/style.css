@@ -1,0 +1,16 @@
+body {
+  padding: 30px; }
+
+a {
+  color: red; }
+  a:hover {
+    color: blue; }
+
+h3 {
+  font-size: 20px; }
+  h3 a {
+    text-decoration: none; }
+  .two h3 a {
+    color: olivedrab; }
+
+/*# sourceMappingURL=style.css.map */

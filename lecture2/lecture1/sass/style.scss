@@ -1,0 +1,21 @@
+body {
+    padding: 30px;
+}
+
+a {
+    color: red;
+    &:hover{
+        color: blue;
+    };
+}
+
+h3 {
+    font-size: 20px;
+    a{
+        text-decoration: none;
+    }
+
+    .two & a {
+        color: olivedrab;
+    }
+}
